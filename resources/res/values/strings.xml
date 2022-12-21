@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScanDetector</string>
+    <string name="label_hint">Click Scan Button</string>
+    <string name="label_scan">Scan</string>
+    <string name="label_exit">Exit</string>
+</resources>

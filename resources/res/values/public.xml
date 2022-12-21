@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_launcher" id="2130837504" />
+    <public type="layout" name="main" id="2130903040" />
+    <public type="raw" name="ok" id="2130968576" />
+    <public type="string" name="app_name" id="2131034112" />
+    <public type="string" name="label_hint" id="2131034113" />
+    <public type="string" name="label_scan" id="2131034114" />
+    <public type="string" name="label_exit" id="2131034115" />
+    <public type="style" name="AppBaseTheme" id="2131099648" />
+    <public type="style" name="AppTheme" id="2131099649" />
+    <public type="id" name="text_code" id="2131165184" />
+    <public type="id" name="btn_scan" id="2131165185" />
+    <public type="id" name="btn_exit" id="2131165186" />
+</resources>

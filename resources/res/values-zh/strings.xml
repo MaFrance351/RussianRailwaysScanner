@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScanDetector</string>
+    <string name="label_hint">点击扫描按钮将出光</string>
+    <string name="label_scan">扫描</string>
+    <string name="label_exit">退出</string>
+</resources>

@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout/main.xml
+SHA1-Digest: 0bmbhE3gS0qcGZDdEZ1zOOWLw8o=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: UCzYT6RE8m1+z99KNVBkhnl38jY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: bB8UbpFdYAslW+3gQktoOtAgGQ8=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: I3MP0NXnINH3Gb4a/IxI+nMF2mw=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: RQ09RDJf3yWYEKYOavo2ED4Yaz0=
+
+Name: res/raw/ok.mp3
+SHA1-Digest: VvFfknOZjFOuUWRdLYEAb6uSl6U=
+
+Name: resources.arsc
+SHA1-Digest: P3hqtzBl9vlGhQkbvEooJn338OA=
+
+Name: lib/armeabi/librxtxSerialIO.so
+SHA1-Digest: 3Tsk/eOyInHwBFPv9sqh0wtsZ4s=
+
+Name: classes.dex
+SHA1-Digest: R/RG/0hHv3OMw/wGv6glSmAu3Mg=
+
